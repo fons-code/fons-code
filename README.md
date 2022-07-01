@@ -11,7 +11,7 @@ I'm an Accessibility engineer at [Accessible 360](https://accessible360.com/) au
 
 🎨***UI/UX design:*** with Figma 
 
-💬 If you have questions about development, accessibility or you just want to say hi✋ my dms are always open 😉 
+💬 If you have questions about development, accessibility or you just want to say hi, my dms are always open 😉 
 <!--
 **fons-code/fons-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
